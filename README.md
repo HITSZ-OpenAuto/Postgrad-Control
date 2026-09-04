@@ -8,24 +8,15 @@
 ## 多模态感知与理解
 <!-- TOML-COURSE: code="" name="多模态感知与理解" -->
 
-<!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课堂20%](https://img.shields.io/badge/课堂-20%25-wheat)
-![实验报告80%](https://img.shields.io/badge/实验报告-80%25-wheat)
-
 ### 授课教师
 
-<!-- TOML-LECTURERS: part="items" -->
 - 盛译萱
-  <!-- TOML-ITEM: id="review-盛译萱-1" has_author="true" -->
   - 授课风格：会和学生有少量互动，但不考勤。~~26年由于将近一半学生在课题组内，而且有时会以科研相关PPT作为课件，导致上课像开组会。~~
-  <!-- TOML-ITEM: id="review-盛译萱-2" has_author="true" -->
   - 上课以介绍相关领域知识为主。
     > 文 / [345ljh](https://www.github.com/345ljh)，2026-09
 
 ### 课程内容
+
 <!-- TOML-SECTION: title="课程内容" -->
 > 这门课程主要涉及肌电、超声等**生理信号**的原理、采集与处理，而非AI领域的多模态。
 
@@ -54,8 +45,8 @@
 | 1 | 肌电动态手势识别实验 | 使用 16 通道肌电手环进行信号采集，对 4 类动态手势进行分类识别。实验涵盖数据采集、特征提取、SVM分类器、1D-CNN网络分类等环节，旨在掌握基于肌电信号的手势识别流程。 |
 | 2 | 超声手势识别实验 | 使用 4 通道超声采集设备进行信号采集，对 8 类静态手势进行分类识别。旨在了解超声信号的原理、应用与基本处理方法。 |
 
-
 ### 关于考试
+
 <!-- TOML-SECTION: title="关于考试" -->
 
 <!-- TOML-ITEM: id="item-关于考试-1" has_author="true" -->
