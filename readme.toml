@@ -61,3 +61,12 @@ content = """
 
 成绩构成：课堂表现20%，实验报告80%，无考试。
 """
+
+[[courses]]
+name = "最优估计"
+
+[[courses]]
+name = "运动控制"
+
+[[courses]]
+name = "模式识别"

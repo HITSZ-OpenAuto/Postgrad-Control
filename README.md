@@ -54,14 +54,10 @@
 成绩构成：课堂表现20%，实验报告80%，无考试。
 
 ## 最优估计
-
-可参考本研通选课 [最优估计](https://hoa.moe/docs/auto5013)。
+<!-- TOML-COURSE: code="" name="最优估计" -->
 
 ## 运动控制
-
-可参考本研通选课 [运动控制系统](https://hoa.moe/docs/auto3011)。
+<!-- TOML-COURSE: code="" name="运动控制" -->
 
 ## 模式识别
-
-可参考本研通选课 [模式识别](https://hoa.moe/docs/auto5024)。
-
+<!-- TOML-COURSE: code="" name="模式识别" -->
