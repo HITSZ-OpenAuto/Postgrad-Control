@@ -1,7 +1,7 @@
 # Postgrad-Control - 控制科学与工程学科选修课程
 <!-- TOML-META: repo_type="multi-project" -->
 
-本仓库包含控制科学与工程选修课程清单中的课程。
+本仓库包含控制科学与工程选修课程清单中的课程。其中《最优估计》可参考本研通选课 [最优估计](https://hoa.moe/docs/auto5013)，《运动控制》可参考本研通选课 [运动控制系统](https://hoa.moe/docs/auto3011)，《模式识别》可参考本研通选课 [模式识别](https://hoa.moe/docs/auto5024)。
 
 <!-- TOML-COURSES-START -->
 
